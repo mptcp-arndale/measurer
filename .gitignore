@@ -1,0 +1,5 @@
+*.sh
+local.properties
+bin
+gen
+
